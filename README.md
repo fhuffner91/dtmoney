@@ -10,7 +10,7 @@
   <img alt="License" src="https://img.shields.io/github/license/fhuffner91/dtmoney?color=%235E69D7" />
   <img alt="Issues" src="https://img.shields.io/github/issues/fhuffner91/dtmoney?color=%235965E0">
   <a href="mailto:britoleonne@gmail.com">
-   <img alt="Email" src="https://img.shields.io/badge/-brfelipeqh.1991@gmail.com-%23525DCB" />
+   <img alt="Email" src="https://img.shields.io/badge/-felipeqh.1991@gmail.com-%23525DCB" />
   </a>
 </p>
 
